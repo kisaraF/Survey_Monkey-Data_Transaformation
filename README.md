@@ -12,8 +12,8 @@ Final Results are illustrated into a Tableau Visualization as shown as below
 
 ### Demographics
 *(Link: tinyurl.com/mpe2uda9)*
-![Tableau visualization for demographic insights]('C:\Users\USER\Desktop\Local Repos\Survey_Monkey-Data_Transaformation\Resources\Demographics- Tableau Viz.png')
+![Tableau visualization for demographic insights]('Resources/Demographics- Tableau Viz.png')
 
 ### Answering Insights
 *(Link: tinyurl.com/42dfby4u)*
-![Tableau visualization for answering insights]('C:\Users\USER\Desktop\Local Repos\Survey_Monkey-Data_Transaformation\Resources\Answerring Insights- Tableau Viz.png')
+![Tableau visualization for answering insights]('Resources/Answerring Insights- Tableau Viz.png')
